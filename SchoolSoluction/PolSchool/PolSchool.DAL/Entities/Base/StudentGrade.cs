@@ -1,6 +1,6 @@
 ﻿namespace PolSchool.DAL.Entities.Base
 {
-    public class StudentGrade : Course 
+    public class StudentGrade : Course
     {
     }
 }
