@@ -1,6 +1,6 @@
 ﻿namespace PolSchool.DAL.Entities.Base
 {
-    public abstract class Course 
+    public class Department : Course
     {
         public DateTime CreationDate { get; set; }
         public DateTime? ModifyDate { get; set; }
@@ -11,3 +11,4 @@
         public bool Deleted { get; set; }
     }
 }
+
