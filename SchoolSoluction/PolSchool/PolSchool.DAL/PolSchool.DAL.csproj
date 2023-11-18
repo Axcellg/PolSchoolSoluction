@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="core\" />
+    <Folder Include="Contracts\" />
+    <Folder Include="DbObject\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>

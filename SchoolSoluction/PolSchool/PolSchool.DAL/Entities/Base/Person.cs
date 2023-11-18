@@ -1,11 +1,10 @@
 ﻿namespace PolSchool.DAL.Entities.Base
 {
-    public abstract class Person : Course
+    public abstract class Person : EntityBase
     {
         public string? FirstName { get; set; }
         public string? LastName { get; set; }
-        public string? HireDate { get; set; }
-        public string? EnrollmentDate { get; set; }
+        public string? Discriminator { get; set; }
 
     }
 }

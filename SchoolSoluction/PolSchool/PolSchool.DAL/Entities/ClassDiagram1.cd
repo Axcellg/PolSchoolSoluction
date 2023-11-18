@@ -1,73 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="PolSchool.DAL.Entities.Base.EntityBase">
-    <Position X="12.75" Y="0.5" Width="1.5" />
+    <Position X="10.75" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>QCAAAAAAAAAAAAAAAAAAkAAAACAAAAAACABAAAAAAAA=</HashCode>
       <FileName>Entities\Base\EntityBase.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PolSchool.DAL.Entities.Base.Person">
-    <Position X="9.5" Y="0.5" Width="1.5" />
+    <Position X="13.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAg=</HashCode>
+      <HashCode>AAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
       <FileName>Entities\Base\Person.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PolSchool.DAL.Entities.Base.Course">
-    <Position X="10.25" Y="2.5" Width="1.5" />
+    <Position X="3.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>gAAAAAAAAAAAgEAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <HashCode>gAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
       <FileName>Entities\Course.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PolSchool.DAL.Entities.Base.Department">
-    <Position X="13.75" Y="3.25" Width="1.5" />
+    <Position X="7.75" Y="4.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QCAAAAAAAAAAAAAAAAAAkAAAACAAAAAACABAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAEAAAAAAAAAAEAAgAA=</HashCode>
       <FileName>Entities\Department.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PolSchool.DAL.Entities.Base.Instructor">
-    <Position X="6" Y="0.5" Width="1.5" />
+    <Position X="13.75" Y="6.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Entities\Instructor.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="PolSchool.DAL.Entities.Base.OfficeAssign">
-    <Position X="5.5" Y="2.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Entities\OfficeAssign.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="PolSchool.DAL.Entities.Base.OnlineCourse">
-    <Position X="5.75" Y="4.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Entities\OnlineCourse.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="PolSchool.DAL.Entities.Base.OnsiteCourse">
-    <Position X="7.75" Y="5.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Entities\OnsiteCourse.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="PolSchool.DAL.Entities.Base.Student">
-    <Position X="7.75" Y="2.5" Width="1.5" />
+    <Position X="17" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Entities\Student.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="PolSchool.DAL.Entities.Base.StudentGrade">
-    <Position X="11.75" Y="5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Entities\StudentGrade.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
