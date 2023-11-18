@@ -3,10 +3,10 @@ using PolSchool.DAL.core;
 
 namespace PolSchool.DAL.Entities.Base
 {
-    public abstract class Instructor : Person
+    public partial class Instructor : Person
     {
         public int Id { get; set; }
-        public string? HireDate { get; set; }
+        public DateTime? HireDate { get; set; }
 
     }
 }

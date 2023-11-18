@@ -4,6 +4,8 @@
     {
         public string? Location { get; set; }
         public string? Days { get; set; }
-        public TimeOnly Time { get; set; }
+        public DateTime Time { get; set; }
+        public int CourseId { get; set; }
+
     }
 }

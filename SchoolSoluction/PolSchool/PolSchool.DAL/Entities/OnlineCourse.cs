@@ -1,7 +1,8 @@
 ﻿namespace PolSchool.DAL.Entities.Base
 {
-    public class OnlineCourse 
+    public partial class OnlineCourse 
     {
-        public string? URL { get; set; } 
+        public int CourseId { get; set; }
+        public string? Url { get; set; }
     }
 }
