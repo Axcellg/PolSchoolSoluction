@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="core\" />
+    <Compile Remove="Entities\Base\**" />
+    <EmbeddedResource Remove="Entities\Base\**" />
+    <None Remove="Entities\Base\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Contracts\" />
     <Folder Include="DbObject\" />
     <Folder Include="Models\" />

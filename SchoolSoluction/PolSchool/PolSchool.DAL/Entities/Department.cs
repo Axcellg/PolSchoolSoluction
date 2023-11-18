@@ -1,4 +1,6 @@
-﻿namespace PolSchool.DAL.Entities.Base
+﻿using PolSchool.DAL.core;
+
+namespace PolSchool.DAL.Entities.Base
 {
     public class Department : EntityBase
     {

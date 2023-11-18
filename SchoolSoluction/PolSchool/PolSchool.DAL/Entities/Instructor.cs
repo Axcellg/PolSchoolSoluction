@@ -1,4 +1,6 @@
 ﻿
+using PolSchool.DAL.core;
+
 namespace PolSchool.DAL.Entities.Base
 {
     public abstract class Instructor : Person

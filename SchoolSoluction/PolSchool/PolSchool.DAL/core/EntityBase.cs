@@ -1,4 +1,4 @@
-﻿namespace PolSchool.DAL.Entities.Base
+﻿namespace PolSchool.DAL.core
 {
     public abstract class EntityBase
     {

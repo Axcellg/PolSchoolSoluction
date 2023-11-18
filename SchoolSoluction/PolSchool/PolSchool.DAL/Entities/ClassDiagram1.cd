@@ -42,5 +42,33 @@
       <FileName>Entities\Student.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="PolSchool.DAL.Entities.Base.OfficeAssign">
+    <Position X="16.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAICAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\OfficeAssign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolSchool.DAL.Entities.Base.OnlineCourse">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\OnlineCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolSchool.DAL.Entities.Base.OnsiteCourse">
+    <Position X="10.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAQA=</HashCode>
+      <FileName>Entities\OnsiteCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolSchool.DAL.Entities.Base.StudentGrade">
+    <Position X="16" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECAAA=</HashCode>
+      <FileName>Entities\StudentGrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
