@@ -1,6 +1,8 @@
-﻿namespace PolSchool.DAL.Entities.Base
+﻿using PolSchool.DAL.Entities.Base;
+
+namespace PolSchool.DAL.Entities
 {
-    public abstract class Course :Department
+    public abstract class Course : Department
     {
 
         public int CourseID { get; set; }
