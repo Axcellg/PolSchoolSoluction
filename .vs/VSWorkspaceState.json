@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SchoolSoluction",
+    "\\SchoolSoluction\\PolSchool",
+    "\\SchoolSoluction\\PolSchool\\PolSchool.BL",
+    "\\SchoolSoluction\\PolSchool\\PolSchool.DAL",
+    "\\SchoolSoluction\\PolSchool\\PolSchool.DAL\\Entities"
   ],
-  "SelectedNode": "\\PolSchool.sln",
+  "SelectedNode": "\\SchoolSoluction\\PolSchool\\PolSchool.DAL\\Entities\\ClassDiagram1.cd",
   "PreviewInSolutionExplorer": false
 }
