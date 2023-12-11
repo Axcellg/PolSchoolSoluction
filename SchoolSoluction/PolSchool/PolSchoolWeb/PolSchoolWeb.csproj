@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PolSchool.DAL\PolSchool.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
