@@ -1,0 +1,12 @@
+C:\Users\Axcell Hernandez\Source\Repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\PolSchool.DAL.csproj.AssemblyReference.cache
+C:\Users\Axcell Hernandez\Source\Repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\PolSchool.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axcell Hernandez\Source\Repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\PolSchool.DAL.AssemblyInfoInputs.cache
+C:\Users\Axcell Hernandez\Source\Repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\PolSchool.DAL.AssemblyInfo.cs
+C:\Users\Axcell Hernandez\Source\Repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\PolSchool.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\bin\Debug\net6.0\PolSchool.DAL.deps.json
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\bin\Debug\net6.0\PolSchool.DAL.dll
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\bin\Debug\net6.0\PolSchool.DAL.pdb
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\PolSchool.DAL.dll
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\refint\PolSchool.DAL.dll
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\PolSchool.DAL.pdb
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.DAL\obj\Debug\net6.0\ref\PolSchool.DAL.dll

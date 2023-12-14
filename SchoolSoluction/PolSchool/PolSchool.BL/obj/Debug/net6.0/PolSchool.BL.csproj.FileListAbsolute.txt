@@ -1,0 +1,11 @@
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\bin\Debug\net6.0\PolSchool.BL.deps.json
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\bin\Debug\net6.0\PolSchool.BL.dll
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\bin\Debug\net6.0\PolSchool.BL.pdb
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\obj\Debug\net6.0\PolSchool.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\obj\Debug\net6.0\PolSchool.BL.AssemblyInfoInputs.cache
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\obj\Debug\net6.0\PolSchool.BL.AssemblyInfo.cs
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\obj\Debug\net6.0\PolSchool.BL.csproj.CoreCompileInputs.cache
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\obj\Debug\net6.0\PolSchool.BL.dll
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\obj\Debug\net6.0\refint\PolSchool.BL.dll
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\obj\Debug\net6.0\PolSchool.BL.pdb
+C:\Users\Axcell Hernandez\source\repos\PolSchoolSoluction\SchoolSoluction\PolSchool\PolSchool.BL\obj\Debug\net6.0\ref\PolSchool.BL.dll

@@ -9,6 +9,6 @@ namespace PolSchool.DAL.Interfaces
         void UpdateCourse(Course course);
         void RemoveCourse(Course course);
         List<ModelCourse> GetCourses();
-        ModelCourse  GetCourseById(int courseId);
+        ModelCourse GetCourseById(int courseId);
     }
 }
